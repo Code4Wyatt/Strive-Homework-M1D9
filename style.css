@@ -1,1 +1,47 @@
-body {}
+body {
+    background-color: black;
+    color: white;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#container {
+    border-style: solid;
+    border-width: 1px;
+    border-color: cornsilk;
+    padding: 12px;
+    border-radius: 9px;
+
+}
+
+#num {
+    display: inline-block;
+    width: 12%;
+    text-align: center;
+    min-height: 30px;
+    padding-top: 10px;
+
+
+}
+
+#userboard {
+    border-style: solid;
+    border-width: 1px;
+    border-color: cornsilk;
+    padding: 12px;
+    border-radius: 9px;
+    margin-top: 20px;
+}
+
+#userNum {
+    display: inline-block;
+    width: 12%;
+    text-align: center;
+    min-height: 30px;
+    padding-top: 10px;
+
+}
+
+#button {
+    margin-top: 20px;
+}
