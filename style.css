@@ -45,3 +45,8 @@ body {
 #button {
     margin-top: 20px;
 }
+
+.selected {
+    border-color: #888;
+    background-color: #444;
+}
